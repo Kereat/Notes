@@ -1,6 +1,6 @@
 # Больше информации и практические задания по библиотеке Pandas:
 
-Бесплатный демо курс для Аналитик данных <a href = "https://karpov.courses/">KarpovCourses</a>:<br>
+Бесплатный демо курс специализации "Аналитик данных" на <a href = "https://karpov.courses/">KarpovCourses</a>:<br>
 https://stepik.org/lesson/375662/step/1?unit=363412 – второй, третий, пятые и шестой разделы
 
 Введение в Data Science и машинное обучение:<br>
